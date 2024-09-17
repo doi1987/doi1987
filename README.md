@@ -19,7 +19,7 @@ Proximamente...
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
-[¿Hablamos? en LinkedIn ](https://www.linkedin.com/in/DavidOIiOS/)
+[¿Hablamos? en LinkedIn ](https://www.linkedin.com/in/developdavid/)
 
 - 👋 Hi, I’m David Ortega.
 - 👀 I’m interested in iOS, apple and mobile development.
